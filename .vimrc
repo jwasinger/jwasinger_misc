@@ -12,3 +12,6 @@ set number
 
 "set shift width (amount shifted by '>>' or '<<') to 4 spaces
 set shiftwidth=4
+
+"make it easier to see trailing whitespace
+set list
